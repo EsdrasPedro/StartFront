@@ -61,3 +61,11 @@ li{
     width: 30%;
     font-size: 1rem;
 }
+
+.divtex-mes{
+    font-size: .9rem;
+}
+
+.align{
+    align-self:flex-end;
+}
