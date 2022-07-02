@@ -1,0 +1,63 @@
+body{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background-color: #fff;
+}
+
+.flex{
+    display: flex;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+a:hover{
+    color: black;
+}
+
+li{
+    list-style: none
+}
+
+.f3{
+    font-size: 1.4rem;
+}
+
+.mf-a {
+    margin-right: auto;
+}
+
+.mf-1{
+    margin-right: 2rem;
+}
+
+.m-3{
+    margin-left: 4rem;
+}
+
+.m-1{
+    margin-left: 2rem;
+}
+
+.m-2{
+    margin-left: 4rem;
+}
+
+.mt-a{
+    margin-top: 12rem;
+}
+
+.mt-1{
+    margin-top: 5rem;
+}
+
+.mt-2{
+    margin-top: 2rem;
+}
+
+
+.divtex{
+    width: 30%;
+    font-size: 1rem;
+}
